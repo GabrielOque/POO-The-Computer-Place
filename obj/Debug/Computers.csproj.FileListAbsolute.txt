@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\bin\Debug\Computers.exe.config
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\bin\Debug\Computers.exe
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\bin\Debug\Computers.pdb
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\obj\Debug\Computers.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\obj\Debug\Computers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\obj\Debug\Computers.Form1.resources
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\obj\Debug\Computers.Properties.Resources.resources
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\obj\Debug\Computers.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\obj\Debug\Computers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\obj\Debug\Computers.exe
+C:\Users\Usuario\Documents\IUE\POO\The computer Place\Computers\obj\Debug\Computers.pdb

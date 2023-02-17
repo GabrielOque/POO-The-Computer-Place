@@ -56,19 +56,19 @@ namespace Computers
             if (this.rdb100.Checked)
                 Total += 200000;
             if (this.rdb256.Checked)
-                Total += 800000;
-            if (this.rdb1T.Checked)
-                Total += 100000;
-            if (this.rdb150.Checked)
                 Total += 300000;
+            if (this.rdb1T.Checked)
+                Total += 600000;
+            if (this.rdb150.Checked)
+                Total += 150000;
             if (this.rdb500.Checked)
-                Total += 900000;
+                Total += 700000;
             if (this.rdb2T.Checked)
                 Total += 1000000;
             if (this.rdb250.Checked)
-                Total += 1200000;
+                Total += 850000;
             if (this.rdb550.Checked)
-                Total += 1300000;
+                Total += 875000;
             if (this.rdb3T.Checked)
                 Total += 1800000;
 
@@ -88,11 +88,11 @@ namespace Computers
 
             //Condiciones para tipo dde disco duro 
             if (this.cmbTipoDisco.SelectedIndex == 0)
-                Total *= 0.2;
+                Total += Total*0.2;
             if (this.cmbTipoDisco.SelectedIndex == 1)
-                Total *= 0.5;
-            if (this.cmbTipoDisco.SelectedIndex == 0)
-                Total *= 0.9;
+                Total += Total*0.5;
+            if (this.cmbTipoDisco.SelectedIndex == 2)
+                Total += Total*0.9;
 
             //Condicioned para los accesorios 
 
